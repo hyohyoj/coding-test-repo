@@ -1,4 +1,4 @@
-package CodingTest_Hash_player;
+package coding.test.hash._1;
 
 import java.util.HashMap;
 import java.util.Map.Entry;

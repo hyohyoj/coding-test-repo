@@ -1,4 +1,4 @@
-package CodingTest_Hash_player;
+package coding.test.hash._1;
 
 public class Test01 {
 

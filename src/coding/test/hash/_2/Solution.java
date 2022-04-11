@@ -1,4 +1,4 @@
-package CodingTest_Hash_phone;
+package coding.test.hash._2;
 
 import java.util.Arrays;
 
